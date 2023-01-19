@@ -1,0 +1,18 @@
+<%- include('header'); -%>
+
+<section class="latest-posts">
+    <div class="container">
+        <h2>Latest Posts</h2>
+        <div class="posts">
+            <div class="post">
+                <img src=<%=content.img%> alt="Post Title 1">
+                <h3><%=content.topic%></h3>
+                <% content.para.forEach((line)=>{ %>
+                    <p><%=line%></p>
+                <% }) %>
+            </div>
+        </div>
+    </div>
+</section>
+
+<%- include('footer'); -%>

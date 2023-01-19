@@ -1,0 +1,13 @@
+WhatsApp Web is a computer-based extension of the WhatsApp Account on your phone. The messages you send and receive are fully synced between your phone and your computer, and you can see all messages on both devices.
+
+One of the main benefits of WhatsApp Web is that it allows users to continue their WhatsApp conversations on their computer, without having to constantly switch between devices. This is especially useful for users who spend a lot of time working on their computers, as it allows them to stay connected with friends and family without having to constantly pick up their phone.
+
+Another benefit of WhatsApp Web is that it allows users to send and receive media files, such as photos and videos, directly from their computer. This is especially useful for users who need to send large files, as it eliminates the need to transfer files from their phone to their computer.
+
+To use WhatsApp Web, users simply need to open the WhatsApp app on their phone, go to the "WhatsApp Web" option in the menu and scan the QR code displayed on their computer screen. Once the QR code is scanned, the computer and phone will be connected and the user can start chatting on their computer.
+
+WhatsApp Web also provides end-to-end encryption which ensures that all messages sent and received on WhatsApp Web are secured and private.
+
+However, it is important to note that WhatsApp Web requires an active internet connection on both the computer and the phone. Additionally, WhatsApp Web only works with the Google Chrome, Safari, Firefox and Microsoft Edge browser.
+
+In conclusion, WhatsApp Web is a great tool for users who want to stay connected on WhatsApp, even when they're working on their computer. Its ability to sync messages between devices and send media files directly from the computer makes it a convenient and useful addition to the WhatsApp experience.
